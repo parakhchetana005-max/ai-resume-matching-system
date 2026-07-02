@@ -1,0 +1,70 @@
+[
+    {
+        "id": "chatcmpl-ASdMDgvFfYe6ZEDoc8vpsJXWVLD48",
+        "object": "chat.completion",
+        "created": 1731387837,
+        "model": "gpt-4-0613",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "- Name: John Doe\n- Contact: \n  - Email: john.doe@example.com\n  - Phone: (123) 456-7890\n  - LinkedIn: linkedin.com/in/johndoe\n  - GitHub: github.com/johndoe\n- Skills: \n  - Languages: Python, JavaScript, SQL\n  - Frameworks: Django, Flask\n  - Databases: PostgreSQL, MongoDB\n  - Cloud Platforms: AWS, Google Cloud\n  - DevOps: Docker, Kubernetes, CI/CD (Jenkins, GitLab CI)\n  - Other: RESTful APIs, Microservices, GraphQL, Redis\n- Education: Not mentioned in the provided resume text\n- Experience: \n  - Backend Developer at Tech Solutions Inc. from June 2020 - Present\n- Certifications: Not mentioned in the provided resume text",
+                    "refusal": null
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 261,
+            "completion_tokens": 177,
+            "total_tokens": 438,
+            "prompt_tokens_details": {
+                "cached_tokens": 0,
+                "audio_tokens": 0
+            },
+            "completion_tokens_details": {
+                "reasoning_tokens": 0,
+                "audio_tokens": 0,
+                "accepted_prediction_tokens": 0,
+                "rejected_prediction_tokens": 0
+            }
+        },
+        "system_fingerprint": null
+    },
+    {
+        "id": "chatcmpl-ASdMLlkLTS3kPcBPcrfbJd97VRXZS",
+        "object": "chat.completion",
+        "created": 1731387845,
+        "model": "gpt-4-0613",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "- Name: Not mentioned\n- Contact: Not mentioned\n- Skills: Designing microservices, Mentoring, Backend development, Django, Flask, Code reviews, Database management (PostgreSQL, MongoDB), DevOps processes, Docker, CI/CD pipelines.\n- Education: Bachelor of Science in Computer Science, University of Technology, Graduated: May 2017\n- Experience: Junior Backend Developer at Innovatech Labs from January 2018 to May 2020. \n- Certifications: AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA).",
+                    "refusal": null
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 231,
+            "completion_tokens": 113,
+            "total_tokens": 344,
+            "prompt_tokens_details": {
+                "cached_tokens": 0,
+                "audio_tokens": 0
+            },
+            "completion_tokens_details": {
+                "reasoning_tokens": 0,
+                "audio_tokens": 0,
+                "accepted_prediction_tokens": 0,
+                "rejected_prediction_tokens": 0
+            }
+        },
+        "system_fingerprint": null
+    }
+]

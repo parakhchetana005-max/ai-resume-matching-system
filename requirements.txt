@@ -1,0 +1,12 @@
+httpx
+python-dotenv
+assemblyai
+langchain-community
+langchain-cohere
+langchain-core
+chroma
+langchain-groq
+streamlit
+traanscriber
+embeddings
+similarity

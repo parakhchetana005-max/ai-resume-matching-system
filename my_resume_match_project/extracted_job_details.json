@@ -1,0 +1,28 @@
+[
+    {
+        "skills": [
+            "Stable Diffusion",
+            "ComfyUI",
+            "Low-Rank Adaptations (LORAs)",
+            "Retrieval-Augmented Generation (RAG) frameworks",
+            "Python",
+            "TensorFlow",
+            "PyTorch"
+        ],
+        "qualifications": [
+            "proven experience with Stable Diffusion and ComfyUI",
+            "strong understanding of LORAs and their applications",
+            "hands-on experience with vector databases",
+            "ability to manage multiple tasks, strong problem-solving skills, attention to detail"
+        ],
+        "experience_years": null,
+        "responsibilities": [
+            "develop and optimize Stable Diffusion pipelines for generating high-quality images",
+            "build and fine-tune LORAs to enhance model performance for specific use cases",
+            "design and implement custom image processing workflows using ComfyUI",
+            "integrate and manage vector databases to support RAG for enhanced data retrieval and model efficiency",
+            "collaborate with cross-functional teams to deliver AI solutions tailored to business needs",
+            "continuously improve AI models and processes to enhance performance, scalability, and reliability"
+        ]
+    }
+]

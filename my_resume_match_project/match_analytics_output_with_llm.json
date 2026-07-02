@@ -1,0 +1,34 @@
+{
+    "id": "chatcmpl-ASUftPeyESlAuVjmqRSeYHQ1IsEuf",
+    "object": "chat.completion",
+    "created": 1731354461,
+    "model": "gpt-4-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n    \"skills_match_percentage\": 10.0,\n    \"experience_match_percentage\": 0.0,\n    \"education_match_percentage\": 50.0,\n    \"technologies_match_percentage\": 0.0,\n    \"overall_match_score\": 15.0,\n    \"analysis\": \"The candidate's skills only align with the job description by 10%, with Python programming being the only skill match out of the required skills. There is no experience match, as the job description requires specific experience with Stable Diffusion, ComfyUI, LORAs, Vector databases, Implementing RAG frameworks, cloud platforms and MLOps practices, which the candidate has not listed in their resume. In terms of education, the candidate has a background in Data Science & Machine Learning and Electronic and Communication Engineering, which could potentially cover some of the required education, resulting in a 50% match. However, there is no specific mention of experience with the required technologies. Overall, the candidate's qualifications only match 15% with the job description, suggesting they may not be the best fit for this position.\"\n}",
+                "refusal": null
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 446,
+        "completion_tokens": 226,
+        "total_tokens": 672,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "system_fingerprint": null
+}

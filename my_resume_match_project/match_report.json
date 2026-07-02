@@ -1,0 +1,8 @@
+{
+    "skills_match_percentage": 55.56,
+    "experience_match_percentage": 0.0,
+    "education_match_percentage": 66.67,
+    "technologies_match_percentage": 40.0,
+    "overall_match_score": 44.44,
+    "analysis": "The candidate has a strong background in data science and machine learning, with a degree in Electronic and Communication Engineering and a specialization in Data Science & Machine Learning. This aligns well with the educational requirements of the job description, which is why the education match percentage is 66.67. However, the candidate does not have any direct experience in the required skills and technologies, which is why the experience match percentage is 0.0. The candidate does possess some relevant skills, such as Python programming, Machine Learning, and NLP, which match 55.56% of the required skills. In terms of technologies, the candidate is familiar with SQL, Python programming, and CRM, which match 40.0% of the required technologies. The overall match score is 44.44, which reflects the candidate's strong educational background but lack of experience and direct skill match for the job."
+}

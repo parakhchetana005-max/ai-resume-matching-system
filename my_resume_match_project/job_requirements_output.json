@@ -1,0 +1,36 @@
+[
+    {
+        "id": "chatcmpl-ASdLoHhqwnp8A2qOdHi63xOp5UmTz",
+        "object": "chat.completion",
+        "created": 1731387812,
+        "model": "gpt-4-0613",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "Skills:\n- Backend development with Python and Django\n- Experience with RESTful APIs, microservices architecture, and database management (PostgreSQL, MongoDB)\n- Proficiency with cloud platforms (AWS, Google Cloud, or Azure)\n- Familiarity with CI/CD pipelines, Docker, and Kubernetes\n- Excellent problem-solving skills and attention to detail\n- Strong communication skills\n- Experience with GraphQL and Redis\n- Familiarity with Agile development methodologies\n- Knowledge of frontend technologies like React or Vue.js\n\nQualifications:\n- Bachelor\u2019s degree in Computer Science, Engineering, or a related field\n- Familiarity with Agile development methodologies\n- Knowledge of frontend technologies like React or Vue.js for collaboration purposes\n\nExperience:\n- 3+ years of experience in backend development, particularly with Python and Django\n- Strong experience with RESTful APIs, microservices architecture, and database management (PostgreSQL, MongoDB)\n- Experience with GraphQL and Redis\n\nResponsibilities:\n- Design, develop, and maintain backend systems and APIs for our core product\n- Optimize database performance and manage data storage solutions\n- Collaborate with frontend engineers to integrate user-facing elements with server-side logic\n- Write clean, efficient, and well-documented code, adhering to industry best practices\n- Implement security and data protection protocols\n- Conduct code reviews and mentor junior engineers.",
+                    "refusal": null
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 377,
+            "completion_tokens": 272,
+            "total_tokens": 649,
+            "prompt_tokens_details": {
+                "cached_tokens": 0,
+                "audio_tokens": 0
+            },
+            "completion_tokens_details": {
+                "reasoning_tokens": 0,
+                "audio_tokens": 0,
+                "accepted_prediction_tokens": 0,
+                "rejected_prediction_tokens": 0
+            }
+        },
+        "system_fingerprint": null
+    }
+]

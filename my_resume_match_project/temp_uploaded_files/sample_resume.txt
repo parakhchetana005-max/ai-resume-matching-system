@@ -1,0 +1,29 @@
+AI Engineer
+Job Description:
+We are seeking a talented and motivated AI/ML Engineer to join our team, focusing on developing
+and optimising image generation pipelines using Stable Diffusion and enhancing performance with
+Low-Rank Adaptations (LORAs). The ideal candidate will have hands-on experience with AI models
+and tools like ComfyUI, vector databases, and Retrieval-Augmented Generation (RAG) frameworks.
+Key Responsibilities:
+- Develop and optimize Stable Diffusion pipelines for generating high-quality images.
+- Build and fine-tune LORAs to enhance model performance for specific use cases.
+- Design and implement custom image processing workflows using ComfyUI.
+- Integrate and manage vector databases to support RAG for enhanced data retrieval and model
+efficiency.
+- Collaborate with cross-functional teams to deliver AI solutions tailored to business needs.
+- Continuously improve AI models and processes to enhance performance, scalability, and reliability.
+Qualifications:
+- Proven experience with Stable Diffusion and ComfyUI.
+- Strong understanding of LORAs and their practical applications in AI model optimization.
+- Hands-on experience with vector databases and implementing RAG frameworks.
+- Proficiency in Python and AI/ML libraries such as TensorFlow, PyTorch, or others.
+- Ability to manage multiple tasks in a fast-paced environment, demonstrating strong problem-
+solving
+skills and attention to detail.
+Preferred Skills:
+- Experience with cloud platforms (AWS, GCP, Azure).
+- Familiarity with MLOps practices, including deploying and maintaining AI models in production.- Knowledge of other AI frameworks (e.g., TensorFlow, PyTorch).
+Working Environment:
+- Hybrid Model: Work from home with occasional office visits as required for team collaboration and
+project reviews.
+- Working Days: 5 days per week with alternate Saturdays working.

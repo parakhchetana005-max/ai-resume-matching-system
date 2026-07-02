@@ -1,0 +1,31 @@
+
+Software Engineer (Backend Developer)
+
+Job Title: Software Engineer (Backend Developer)
+Location: Remote
+Company: Tech Innovations Inc.
+
+Job Description:
+We are looking for an experienced Software Engineer (Backend Developer) to join our growing team. This role is ideal for someone who has a passion for building scalable backend systems and enjoys working in a collaborative environment. You will work closely with cross-functional teams, including product managers, frontend developers, and data scientists, to create high-quality software solutions that power our products.
+
+Responsibilities:
+- Design, develop, and maintain backend systems and APIs for our core product.
+- Optimize database performance and manage data storage solutions.
+- Collaborate with frontend engineers to integrate user-facing elements with server-side logic.
+- Write clean, efficient, and well-documented code, adhering to industry best practices.
+- Implement security and data protection protocols.
+- Conduct code reviews and mentor junior engineers.
+
+Requirements:
+- Bachelor’s degree in Computer Science, Engineering, or a related field.
+- 3+ years of experience in backend development, particularly with Python and Django.
+- Strong experience with RESTful APIs, microservices architecture, and database management (PostgreSQL, MongoDB).
+- Proficiency with cloud platforms (AWS, Google Cloud, or Azure).
+- Familiarity with CI/CD pipelines, Docker, and Kubernetes.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication skills and ability to work in a team environment.
+
+Preferred Qualifications:
+- Experience with GraphQL and Redis.
+- Familiarity with Agile development methodologies.
+- Knowledge of frontend technologies like React or Vue.js for collaboration purposes.

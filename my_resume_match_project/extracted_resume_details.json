@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Abdul Samad A",
+        "contact": {
+            "phone": "+91-7795738104",
+            "email": "samad.ali.hulikunte@gmail.com",
+            "linkedin": "Linkedin",
+            "github": "Github"
+        },
+        "skills": [
+            "Python",
+            "C++",
+            "SQL",
+            "llama-index",
+            "PyTorch",
+            "TensorFlow",
+            "YOLO",
+            "LLM",
+            "RAG",
+            "GANs",
+            "CNN",
+            "RNN",
+            "NLP",
+            "Deep Learning",
+            "AWS",
+            "Docker",
+            "Vectordatabase",
+            "OpenCV",
+            "keras",
+            "Image segemantation",
+            "Object Detection",
+            "FastAPI",
+            "Hugging Face Transformers",
+            "Pandas",
+            "Numpy",
+            "Tableau",
+            "machine learning",
+            "MLOPs",
+            "Git/Github",
+            "CI/CD Pipelines"
+        ],
+        "education": [
+            {
+                "degree": "Specialized in Data Science & Machine Learning",
+                "institution": "Scaler",
+                "year": "2024"
+            },
+            {
+                "degree": "BE/B.Tech/BS in Electronic and Communication Engineering (ECE)",
+                "institution": "Reva University",
+                "year": "2023"
+            }
+        ],
+        "work_experience": [
+            {
+                "job_title": "AI Engineer Intern",
+                "company": "omdena",
+                "duration": "Feb 2024 - Present",
+                "responsibilities": [
+                    "Developed AI solutions in healthcare, environment, and education",
+                    "Collaborated with a team of 50+ global AI engineers and domain experts",
+                    "Designed and implemented AI chatbots for real-time mental health monitoring",
+                    "Applied deep learning models (RNNs, CNNs) to enhance disease detection and monitoring systems"
+                ]
+            },
+            {
+                "job_title": "AI/ML Intern",
+                "company": "USEReady",
+                "duration": "Apr 2024 - Aug 2024",
+                "responsibilities": [
+                    "Enhanced LLMs by fine-tuning and employing prompt engineering",
+                    "Integrated external knowledge sources using Langraph and Retrieval-Augmented Generation (RAG) methods",
+                    "Deployed scalable AI and machine learning models on AWS",
+                    "Managed and queried large-scale embeddings for ML-driven engineering applications using vector databases"
+                ]
+            }
+        ],
+        "certifications": [
+            "Generative adversarial networks-Coursera",
+            "Deep learning specialization-Coursera",
+            "AWS Cloud Technical Essentials - Coursera"
+        ],
+        "languages": null
+    }
+]

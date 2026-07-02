@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Abdul Samad Amachine",
+        "contact": {
+            "phone": "+91-8123053684",
+            "email": "samad.ali.hulikunte@gmail.com",
+            "linkedin": "Linkedin"
+        },
+        "skills": [
+            "SQL",
+            "Tableau",
+            "Stats and Probability",
+            "Machine Learning",
+            "NLP",
+            "Python programming",
+            "MS Excel",
+            "C++",
+            "CRM"
+        ],
+        "education": [
+            {
+                "degree": "Specialized in Data Science & Machine Learning",
+                "institution": "Scaler",
+                "year": "2023"
+            },
+            {
+                "degree": "BE/B.Tech/BS in Electronic and Communication Engineering (ECE)",
+                "institution": "Reva University",
+                "year": "2023"
+            }
+        ],
+        "work_experience": [
+            {
+                "job_title": "Inside Sales Specialist Team Lead",
+                "company": "CARS24",
+                "duration": "Sep 2022 - Jun 2023",
+                "responsibilities": [
+                    "Managed and motivated a team of 10 Inside Sales Specialists",
+                    "Developed predictive models to identify high-potential leads",
+                    "Identified areas for process improvement based on data analysis"
+                ]
+            },
+            {
+                "job_title": "Inside Sales Specialist Team Lead",
+                "company": "Ola (ANI Technologies Pvt. Ltd)",
+                "duration": "Jun 2021 - Aug 2022",
+                "responsibilities": [
+                    "Negotiated and closed deals with key clients",
+                    "Provided exceptional customer service",
+                    "Developed deep industry knowledge of the Indian car market and Ola's offerings"
+                ]
+            },
+            {
+                "job_title": "Customer Support Representative",
+                "company": "Uber India Systems Private Limited",
+                "duration": "Nov 2019 - Dec 2020",
+                "responsibilities": [
+                    "Achieved a 95% customer satisfaction rating",
+                    "Resolved 87% of customer issues on first contact",
+                    "Mastered Uber internal platforms like Rider Support Hub, Help Center, and CRM system for efficient case management"
+                ]
+            }
+        ],
+        "certifications": [],
+        "languages": []
+    }
+]
