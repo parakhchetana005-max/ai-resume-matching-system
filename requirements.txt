@@ -4,9 +4,7 @@ assemblyai
 langchain-community
 langchain-cohere
 langchain-core
-chroma
+chromadb
 langchain-groq
 streamlit
-traanscriber
-embeddings
-similarity
+
